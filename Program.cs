@@ -25,7 +25,7 @@ namespace arrayInversionsEasyWay
 				return y;
 			}
 		}
-		static int[] arr = new int[] { 1, 20, 6, 4, 5, 31 };
+		static int[] arr = new int[] { 1, 14, 9, 3, 4, 31 };
 		static Pairs[] pair = new Pairs[arr.Length+1];
 		static int getInvCount(int n)
 		{
